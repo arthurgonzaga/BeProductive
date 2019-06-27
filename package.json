@@ -1,0 +1,25 @@
+{
+  "name": "be-productive",
+  "version": "1.0.0",
+  "description": "A program to remember me things and dont let me waste too much time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rebuild": "npm rebuild --runtime=electron --target=1.1.3 --disturl=https://atom.io/download/atom-shell --abi=48",
+    "start": "electron --enable-transparent-visuals ."
+  },
+  "keywords": [
+    "don't",
+    "Waste",
+    "time",
+    "remember",
+    "water"
+  ],
+  "author": "Arthur Gonzaga",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "electron": "^5.0.6",
+    "robotjs": "^0.5.1"
+  }
+}
