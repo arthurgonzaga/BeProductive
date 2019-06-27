@@ -1,0 +1,20 @@
+html{
+    cursor: none;
+}
+body{
+    color: white;
+    background: #00054725;
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+    font-weight: 700;
+}
+h2{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.warning{
+    padding: 40vmin 0;
+}
