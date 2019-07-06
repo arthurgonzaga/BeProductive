@@ -1,5 +1,5 @@
-let timeLeft = 60 * 5;
-var timer = document.querySelector('#timer');
+var timeLeft = Time.getTimeAlive();
+var timer = document.querySlector('#timer');
 var count = 0;
 
 function convertSeconds(second){

@@ -1,0 +1,28 @@
+.logo{
+    text-align: center;
+    padding: 20px 0;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: #ff9900;
+}
+.col-2{
+    padding: 0;
+}
+.nav{
+    font-weight: 700;
+}
+.nav-link{
+    margin: 5px 0;
+    border-radius: 0 25px 25px 0!important;
+    width: 90%;
+    color: #ffa600;
+}
+.nav-link:hover{
+    margin: 5px 0;
+    color: #ff8800;
+}
+.nav-link.active{
+    background-color: #ffa600!important;
+}
+.card-body{
+    padding: 0;
+}
